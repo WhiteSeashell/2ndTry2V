@@ -1,13 +1,28 @@
 body{
-    display: flex;
-    align-items: center;
-    height: 100vh;
-    background-color:rgb(114, 212, 212);
+
+    
+    margin: 0;
 }
 
 section{
-    background-color: rgb(61, 61, 61);
+    display: flex;
+    align-items: center;
+    height: 50vh;
+}
+
+#section1{
+    background-color:rgb(53, 50, 50);
+}
+
+#section2{
+    background-color:rgb(71, 70, 70);
+}
+
+div{
+    background-color: rgba(61, 61, 61, 0.664);
     color: whitesmoke;
     width: 100%;
     text-align: center;
+    padding: 20px 0;
+    text-transform: uppercase;
 }

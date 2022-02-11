@@ -1,1 +1,2 @@
-alert('hello good sir, how are you doing today');
+prompt('hello good sir, how are you feeling today?');
+
